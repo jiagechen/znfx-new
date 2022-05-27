@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/znfx.iml" filepath="$PROJECT_DIR$/znfx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/znfx-common/znfx-common.iml" filepath="$PROJECT_DIR$/znfx-common/znfx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/znfx-main/znfx-main.iml" filepath="$PROJECT_DIR$/znfx-main/znfx-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/znfx-mbg/znfx-mbg.iml" filepath="$PROJECT_DIR$/znfx-mbg/znfx-mbg.iml" />
+    </modules>
+  </component>
+</project>
